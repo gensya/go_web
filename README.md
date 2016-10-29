@@ -11,3 +11,5 @@ $ mv myself.key ssl/development
 
 Goのサーバーを起動したら  
 ブラウザで https://localhost/login にアクセス
+
+loginの中のserver.go動いてませんでした...
